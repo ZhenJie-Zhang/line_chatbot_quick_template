@@ -1,3 +1,16 @@
+# 如何使用
+```
+git clone https://github.com/ZhenJie-Zhang/line_chatbot_quick_template.git
+cd line_chatbot_quick_template
+sudo docker-compose up -d
+sudo docker exec -it line-chat-bot-jupyter bash
+jupyter notebook --allow-root
+```
+# 使用瀏覽器進入 (範例:http://35.194.196.242:8888)
+進入後會詢問登入密碼，docker內設定密碼為123456
+password = 123456
+
+---
 # 免資料庫的極速開發前台頁面模板
 只需要將自己想準備的素材放到資料夾內，然後放到heroku，就可以快速部署自己的專有機器人了喔。
 
