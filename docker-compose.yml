@@ -1,17 +1,18 @@
 version: '3.7'
 services:
   jupyter:
-    build:
-      context: .
+    image: abc1233108/darknet_sneaker
     container_name: line-chat-bot-jupyter 
     ports:
       - "5000:5000"
       - "8888:8888"
     volumes:
-      - ./:/home/jovyan/work
+      - ./:/root/linechatbot
+    tty: true
+    stdin_open: true
     networks:
       - chatbot-net
-    command: start.sh jupyter notebook --NotebookApp.token=''
+#    command: start.sh jupyter notebook --NotebookApp.token=''
   
   serveo:
     image: aeon33system/serveo-alpine:v1
