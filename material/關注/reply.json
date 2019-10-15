@@ -4,6 +4,63 @@
   "text": "其實也就是個定位在官方宣傳的內容機器人，但也不想顯得太無趣，耗了大家的時間。恰好想起很久以前的文學夢，想起了紅樓夢，想起了最後那一片大地，真乾淨。"
 },
 {
+  "type": "image",
+  "originalContentUrl": "https://sneaker.serveo.net/material/%E9%97%9C%E6%B3%A8/architecture.png",
+  "previewImageUrl": "https://sneaker.serveo.net/material/%E9%97%9C%E6%B3%A8/architecture.png",
+  "animated": false
+},
+{
+  "type": "imagemap",
+  "baseUrl": "https://i.imgur.com/GUPkVFx.jpg",
+  "altText": "This is an imagemap",
+  "baseSize": {
+    "width": 1040,
+    "height": 1470
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 37,
+        "y": 19,
+        "width": 316,
+        "height": 240
+      },
+      "text": "動作 1"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 472,
+        "y": 25,
+        "width": 401,
+        "height": 218
+      },
+      "text": "動作 2"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 32,
+        "y": 296,
+        "width": 273,
+        "height": 233
+      },
+      "text": "動作 3"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 476,
+        "y": 319,
+        "width": 419,
+        "height": 224
+      },
+      "text": "動作 4"
+    }
+  ]
+},
+{
   "type": "template",
   "altText": "this is a buttons template",
   "template": {
