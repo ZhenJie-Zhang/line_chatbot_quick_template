@@ -1,5 +1,16 @@
 version: '3.7'
 services:
+  db:
+    image: mariadb:10.1
+    container_name: chatbot_db
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=123456
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    networks:
+      - chatbot-net
   jupyter:
     image: abc1233108/darknet_sneaker
     container_name: line-chat-bot-jupyter 
