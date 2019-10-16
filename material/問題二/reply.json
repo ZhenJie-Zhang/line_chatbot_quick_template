@@ -1,0 +1,25 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "是",
+        "data": "folder=問題三&tag=yes"
+      },
+      {
+        "type": "postback",
+        "label": "否",
+        "text": "否",
+        "data": "folder=問題三&tag=no"
+      }
+    ],
+    "title": "問題",
+    "text": "如果看到很喜歡的鞋子，即使價格很高也一定會買。"
+  }
+}
+]

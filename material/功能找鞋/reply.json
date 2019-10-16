@@ -1,0 +1,90 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+        "title": "所顏是否?",
+        "text": "主色:",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "次色:",
+            "text": "鞋名:",
+            "data": "tag=maincolor|Secondarycolor"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+        "title": "所顏是否?",
+        "text": "主色:",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "次色:",
+            "text": "鞋名:",
+            "data": "tag=maincolor|Secondarycolor"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+        "title": "所顏是否?",
+        "text": "主色:",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "次色:",
+            "text": "鞋名:",
+            "data": "tag=maincolor|Secondarycolor"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+        "title": "所顏是否?",
+        "text": "主色:",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "次色:",
+            "text": "鞋名:",
+            "data": "tag=maincolor|Secondarycolor"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+        "title": "所顏是否?",
+        "text": "主色:",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "次色:",
+            "text": "鞋名:",
+            "data": "tag=maincolor|Secondarycolor"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://f.rimg.com.tw/s2/5/71/3a/21845922713914_464.JPG",
+        "title": "所顏是否?",
+        "text": "主色:",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "次色:",
+            "text": "鞋名:",
+            "data": "tag=maincolor|Secondarycolor"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

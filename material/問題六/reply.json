@@ -1,0 +1,25 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "歐美系",
+        "text": "歐美系",
+        "data": "folder=rich_menu_4&tag=america"
+      },
+      {
+        "type": "postback",
+        "label": "日系",
+        "text": "日系",
+        "data": "folder=rich_menu_4&tag=japan"
+      }
+    ],
+    "title": "問題",
+    "text": "你選擇偏向以下哪一種品牌?"
+  }
+}
+]

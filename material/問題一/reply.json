@@ -1,0 +1,25 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "男鞋",
+        "text": "收到反饋",
+        "data": "folder=問題二&tag=man"
+      },
+      {
+        "type": "postback",
+        "label": "女鞋",
+        "text": "收到反饋",
+        "data": "folder=問題二&tag=woman"
+      }
+    ],
+    "title": "問題",
+    "text": "你想購買以下哪種鞋?"
+  }
+}
+]

@@ -1,0 +1,89 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "履視步爽",
+  "chatBarText": "履視步爽",
+  "areas": [
+    {
+      "bounds": {
+        "x": 17,
+        "y": 17,
+        "width": 814,
+        "height": 818
+      },
+      "action": {
+        "type": "postback",
+        "text": "目前的流行趨勢",
+        "data": "folder=流行趨勢&tag=trend"
+      }
+    },
+    {
+      "bounds": {
+        "x": 835,
+        "y": 8,
+        "width": 826,
+        "height": 835
+      },
+      "action": {
+        "type": "postback",
+        "text": "顏色找鞋",
+        "data": "folder=顏色找鞋&tag=Colortofindshoes"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1657,
+        "y": 13,
+        "width": 835,
+        "height": 830
+      },
+      "action": {
+        "type": "postback",
+        "text": "穿搭建議",
+        "data": "folder=穿搭建議&tag=Wearadvice"
+      }
+    },
+    {
+      "bounds": {
+        "x": 13,
+        "y": 839,
+        "width": 822,
+        "height": 826
+      },
+      "action": {
+        "type": "postback",
+        "text": "功能找鞋",
+        "data": "folder=功能找鞋&tag=Functiontofindshoes"
+      }
+    },
+    {
+      "bounds": {
+        "x": 826,
+        "y": 835,
+        "width": 835,
+        "height": 826
+      },
+      "action": {
+        "type": "postback",
+        "text": "圖片找鞋",
+        "data": "folder=圖片找鞋&tag=Picturetofindshoes"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1665,
+        "y": 835,
+        "width": 818,
+        "height": 834
+      },
+      "action": {
+        "type": "postback",
+        "text": "商品推薦",
+        "data": "folder=商品推薦&tag=Productsrecommend"
+      }
+    }
+  ]
+}

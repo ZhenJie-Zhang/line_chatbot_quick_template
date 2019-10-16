@@ -1,0 +1,37 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "跑鞋",
+        "text": "跑鞋",
+        "data": "folder=問題四&tag=run"
+      },
+      {
+        "type": "postback",
+        "label": "籃球鞋",
+        "text": "籃球鞋",
+        "data": "folder=問題四&tag=basketball"
+      },
+      {
+        "type": "postback",
+        "label": "運動休閒鞋",
+        "text": "運動休閒鞋",
+        "data": "folder=問題四&tag=sport"
+      },
+      {
+        "type": "postback",
+        "label": "其他運動鞋",
+        "text": "其他運動鞋",
+        "data": "folder=問題四&tag=other"
+      }
+    ],
+    "title": "問題",
+    "text": "你喜歡哪種類型的鞋子?"
+  }
+}
+]
