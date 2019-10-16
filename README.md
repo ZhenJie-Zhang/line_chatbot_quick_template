@@ -6,7 +6,7 @@ sudo docker-compose up -d
 sudo docker exec -it line-chat-bot-jupyter bash
 jupyter notebook --allow-root
 ```
-# 使用瀏覽器進入 (範例:http://35.194.196.242:8888)
+# 使用瀏覽器進入 (範例:http://IP:8888)
 進入後會詢問登入密碼，docker內設定密碼為123456
 password = 123456
 
