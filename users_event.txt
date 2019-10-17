@@ -1,0 +1,23 @@
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:04:11", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:04:31", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "trend", "timestamp": "2019-10-17 08:05:00", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Colortofindshoes", "timestamp": "2019-10-17 08:05:04", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:05:08", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Colortofindshoes", "timestamp": "2019-10-17 08:30:17", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:30:19", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:30:37", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:32:17", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:32:39", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:47:07", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:48:18", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 08:58:17", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 09:08:32", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 09:09:59", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 09:19:27", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": "2019-10-17 09:20:52", "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Productsrecommend", "timestamp": 1571304641752, "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Wearadvice", "timestamp": 1571304644470, "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Colortofindshoes", "timestamp": 1571304650170, "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "trend", "timestamp": 1571304650560, "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Functiontofindshoes", "timestamp": 1571304650821, "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
+{"tag": "Picturetofindshoes", "timestamp": 1571304651101, "user_id": "U61e9b248bba23f4957cc97f29d4efcb5"}
