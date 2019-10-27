@@ -4,7 +4,7 @@ git clone https://github.com/ZhenJie-Zhang/line_chatbot_quick_template.git
 cd line_chatbot_quick_template
 sudo docker-compose up -d
 sudo docker exec -it line-chat-bot-jupyter bash
-jupyter notebook --allow-root
+cd /root; jupyter notebook --allow-root
 ```
 # 使用瀏覽器進入 (範例:http://IP:8888)
 進入後會詢問登入密碼，docker內設定密碼為123456
