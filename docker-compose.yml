@@ -36,7 +36,7 @@ services:
     stdin_open: true
     networks:
     - chatbot-net
-    command: autossh -M 0 -R sneaker.serveo.net:80:line-chat-bot-jupyter:5000 -o StrictHostKeyChecking=no serveo.net
+    command: autossh -M 0 -R sneakerdb103g3.serveo.net:80:line-chat-bot-jupyter:5000 -o StrictHostKeyChecking=no serveo.net
 
   mysql:
     image: mariadb:10.1
@@ -172,7 +172,7 @@ services:
     environment:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
       KAFKA_ADVERTISED_HOST_NAME: 192.168.99.100
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://:9092 #PLAINTEXT://[Cloud.Plateform.outer.ip]:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://35.194.196.242:9092 #PLAINTEXT://[Cloud.Plateform.outer.ip]:9092
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - ./kafka:/kafka
