@@ -13,7 +13,22 @@ services:
     networks:
       - chatbot-net
 #    command: start.sh jupyter notebook --NotebookApp.token=''
-  
+
+#  ngrok:
+#    image: wernight/ngrok
+#    container_name: ngrok
+#    tty: true
+#    stdin_open: true
+#    ports:
+#      - "4040"
+#    networks:
+#      - chatbot-net
+#    command: ngrok http line-chat-bot-jupyter:5000
+#    depends_on:
+#      - jupyter
+#    links:
+#      - jupyter
+
   serveo:
     image: aeon33system/serveo-alpine:v1
     container_name: chatbot_serveo
@@ -34,6 +49,9 @@ services:
       - ./mysql_data:/var/lib/mysql
     networks:
       - chatbot-net
+    links:
+      - jupyter
+
   mongo:
     image: mongo
     container_name: mongodb
@@ -47,6 +65,9 @@ services:
       - 6016
     ports:
       - "27017:27017"
+#    command: mongod --replSet 'rs1'
+    links:
+      - jupyter
 
   adminmongo:
     image: mrvautin/adminmongo
@@ -59,92 +80,21 @@ services:
     environment:
       - HOST=0.0.0.0
 
-  zookeeper:
-    image: wurstmeister/zookeeper
-    container_name: zookeeper
-    hostname: zookeeper
-    networks:
-      - chatbot-net
-    ports:
-      - "2181:2181"
-
-  kafka:
-    image: wurstmeister/kafka:2.11-0.11.0.3
-    container_name: kafka
-    hostname: kafka
-    ports:
-      - "9092:9092"
-    networks:
-      - chatbot-net
+  pmte:
+    build: 
+      context: ./dockerfile
+      dockerfile: dockerfile-pmte
+    container_name: pmte
+    command: mongo-connector -m mongodb:27017 -t elasticsearch:9200 -d elastic2_doc_manager -n es.userevent,es.images
     depends_on:
-      - zookeeper
-    environment:
-      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_ADVERTISED_HOST_NAME: 192.168.99.100
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://35.224.83.201:9092 #PLAINTEXT://[Cloud.Plateform.outer.ip]:9092
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
-      - ./kafka:/kafka
-
-  restproxy:
-    image: confluentinc/cp-kafka-rest:5.2.1
+      - elasticsearch
+    links:
+      - mongo
+      - elasticsearch
     restart: always
-    container_name: restproxy
-    hostname: restproxy
-    depends_on:
-      - kafka
     networks:
       - chatbot-net
-    environment:
-      KAFKA_REST_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_REST_LISTENERS: http://0.0.0.0:8082
-      KAFKA_REST_SCHEMA_REGISTRY_URL: "http://schema-registry:8081"
-      KAFKA_REST_HOST_NAME: restproxy
-      KAFKA_REST_DEBUG: "true"
-    ports:
-      - 8082:8082
-  ksql-server:
-    image: confluentinc/cp-ksql-server:5.2.1
-    container_name: ksql-server
-    depends_on:
-      - kafka
-    ports:
-      - "8088:8088"
-    networks:
-      - chatbot-net
-    environment:
-      KSQL_CONFIG_DIR: "/etc/ksql"
-      KSQL_LOG4J_OPTS: "-Dlog4j.configuration=file:/etc/ksql/log4j-rolling.properties"
-      KSQL_BOOTSTRAP_SERVERS: kafka:9092
-      KSQL_LISTENERS: "http://0.0.0.0:8088"
-      KSQL_CACHE_MAX_BYTES_BUFFERING: 0
-      KSQL_KSQL_SCHEMA_REGISTRY_URL: "http://schema-registry:8081"
 
-  ksql-cli:
-    image: confluentinc/cp-ksql-cli:5.2.1
-    container_name: ksql-cli
-    depends_on:
-      - kafka
-      - ksql-server
-    networks:
-      - chatbot-net
-    entrypoint: /bin/sh
-    tty: true
-
-  schema-registry:
-    image: confluentinc/cp-schema-registry:5.2.1
-    container_name: schema-registry
-    depends_on:
-      - zookeeper
-      - kafka
-    ports:
-      - "8081:8081"
-    networks:
-      - chatbot-net
-    environment:
-      SCHEMA_REGISTRY_HOST_NAME: schema-registry
-      SCHEMA_REGISTRY_KAFKASTORE_CONNECTION_URL: 'zookeeper:2181'
-  
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:6.2.4
     hostname: elasticsearch
@@ -152,9 +102,9 @@ services:
     ports:
       - "9200:9200"
       - "9300:9300"
-    volumes:
-      - ./elasticsearch/data:/usr/share/elasticsearch/data
-      - ./elasticsearch/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+#    volumes:
+#      - ./elasticsearch/data:/usr/share/elasticsearch/data
+#      - ./elasticsearch/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
     environment:
       ES_JAVA_OPTS: "-Xms1g -Xmx1g"
     networks:
@@ -177,20 +127,55 @@ services:
     container_name: kibana
     ports:
       - "5601:5601"
-    networks:  
+    networks:
       - chatbot-net
     depends_on:
       - elasticsearch
 
-  redis:
-    image: redis:5.0
-    container_name: redis
-    ports:
-      - "6379:6379"
-    networks:  
+  cloudera:
+    image: abc1233108/cloudera:v2
+    hostname: quickstart.cloudera
+    container_name: quickstart.cloudera
+    stdin_open: true
+    tty: true
+    user: cloudera
+    working_dir: /home/cloudera
+    privileged: true
+    ports: 
+      - "8080:8080"
+      - "8889:8888"
+      - "50070:50070"
+      - "50075:50075"
+    networks:
       - chatbot-net
-    command: redis-server --requirepass "123456" --appendonly "yes"
+
+  zookeeper:
+    image: wurstmeister/zookeeper
+    container_name: zookeeper
+    hostname: zookeeper
+    networks:
+      - chatbot-net
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: wurstmeister/kafka:2.11-0.11.0.3
+    container_name: kafka
+    container_name: kafka
+    hostname: kafka
+    ports:
+      - "9092:9092"
+    networks:
+      - chatbot-net
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_HOST_NAME: 192.168.99.100
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://:9092 #PLAINTEXT://[Cloud.Plateform.outer.ip]:9092
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./kafka:/kafka
 
 networks:
   chatbot-net:
-    
