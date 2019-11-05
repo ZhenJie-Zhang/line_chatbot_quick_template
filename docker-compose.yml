@@ -146,6 +146,8 @@ services:
       - "8889:8888"
       - "50070:50070"
       - "50075:50075"
+    volumes:
+      - ./recommend:/home/cloudera/recommend
     networks:
       - chatbot-net
 
