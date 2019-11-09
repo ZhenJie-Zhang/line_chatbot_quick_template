@@ -1,9 +1,9 @@
-shoesIDX,shoesID,pro_name
-1,11040,adidas World Cup Cleats - Black | adidas US
-2,15110,adidas Copa Mundial Cleats - Black | adidas US
-3,19228,adidas Mundial Team Shoes - Black | adidas US
-4,19310,adidas Mundial Goal Shoes - Black | adidas US
-5,34563,adidas Samba Classic - Black | adidas US
+ÔªøshoesIDX,shoesID,pro_name
+1,011040,adidas World Cup Cleats - Black | adidas US
+2,015110,adidas Copa Mundial Cleats - Black | adidas US
+3,019228,adidas Mundial Team Shoes - Black | adidas US
+4,019310,adidas Mundial Goal Shoes - Black | adidas US
+5,034563,adidas Samba Classic - Black | adidas US
 6,100007_BKW,Women's Sepulveda Blvd - Still Love
 7,100013_BKLD,Women's Relaxed Fit: Breathe-Easy - Missing Lynx
 8,100026_BBK,Women's Be-Lux - Daylights
@@ -503,9 +503,9 @@ shoesIDX,shoesID,pro_name
 502,1012A759-001,GEL-KAYANO 26
 503,1013A012-700,Sortiemagic RP 4 Tenka
 504,1013A075-600,SORTIEMAGIC RP 4 TENKA
-505,1.02E+15,Suede Espadrilles
-506,1.02E+15,Suede Loafers
-507,1.02E+15,Suede Loafers
+505,1016843419732531,Suede Espadrilles
+506,1016843419732553,Suede Loafers
+507,1016843419732555,Suede Loafers
 508,1021A007-001,GEL-Kenun Lyte MX
 509,1021A014-001,HyperGEL-SAI
 510,1021A014-002,HyperGEL-SAI
@@ -743,16 +743,16 @@ shoesIDX,shoesID,pro_name
 742,1032A004-500,GEL-Fit Sana 4
 743,1032A006-001,GEL-Fit Sana 4 SE
 744,1032A006-300,GEL-Fit Sana 4 SE
-745,1.04E+16,Charles Cap-Toe Leather Oxford Shoes
-746,1.04E+16,Crus Woven Leather Sandals
-747,1.04E+16,Leather and Mesh Sandals
-748,1.04E+16,Leather and Mesh Sandals
-749,1.04E+16,Richmond Pebble-Grain Leather Boots
-750,1.04E+16,Blake Whole-Cut Venezia Leather Oxford Shoes
-751,1.04E+16,Dennis Two-Tone Suede Boat Shoes
-752,1.04E+16,Collapsible-Heel Suede Espadrilles
-753,1.04E+16,Roos Horsebit Leather Loafers
-754,1.04E+16,Leather Oxford Shoes
+745,10375442618768301,Charles Cap-Toe Leather Oxford Shoes
+746,10375442618821452,Crus Woven Leather Sandals
+747,10375442619028180,Leather and Mesh Sandals
+748,10375442619059742,Leather and Mesh Sandals
+749,10375442619158258,Richmond Pebble-Grain Leather Boots
+750,10375442619171503,Blake Whole-Cut Venezia Leather Oxford Shoes
+751,10375442619175015,Dennis Two-Tone Suede Boat Shoes
+752,10375442619203235,Collapsible-Heel Suede Espadrilles
+753,10375442619237733,Roos Horsebit Leather Loafers
+754,10375442619243722,Leather Oxford Shoes
 755,104006_LPD,Women's Arya - Her Instincts
 756,104008_BKHP,Women's Gratis - Let's Cruise
 757,104008_GYCL,Women's Gratis - Let's Cruise
@@ -867,7 +867,7 @@ shoesIDX,shoesID,pro_name
 866,1091A015-001,Hyper Sprint 7
 867,1091A018-001,Hyper MD 7
 868,1091A019-001,Hyper LD 6
-869,1.13E+16,Nacho Collapsible-Heel Suede Loafer Espadrilles
+869,11294037977456988,Nacho Collapsible-Heel Suede Loafer Espadrilles
 870,113041_MLT,Women's BOBS Plush - Swedish Phish
 871,113047_WMLT,Women's BOBS Marley Jr. - Picatso
 872,113085_WBKR,Women's BOBS Aquamenace - Splash Hound
@@ -884,9 +884,9 @@ shoesIDX,shoesID,pro_name
 883,1173A007-400,Flip Flop
 884,1173A007-401,Flip Flop
 885,1173A007-750,Flip Flop
-886,1.18E+16,Suede Tasselled Loafers
-887,1.18E+16,Suede Chukka Boots
-888,1.18E+16,Suede Chukka Boots
+886,11813139151229219,Suede Tasselled Loafers
+887,11813139151245051,Suede Chukka Boots
+888,11813139151538534,Suede Chukka Boots
 889,11860_BKWP,Women's D'lites - Life Saver
 890,11860_NVW,Women's D'lites - Life Saver
 891,11860_NWLB,Women's D'lites - Life Saver
@@ -1266,12 +1266,12 @@ shoesIDX,shoesID,pro_name
 1265,12921_WBK,Women's Skech-Air Extreme - Not Alone
 1266,12922_WBK,Women's Skech-Air Extreme - Loud Statement
 1267,12922_WNVP,Women's Skech-Air Extreme - Loud Statement
-1268,1.29E+16,Suede Desert Boots
-1269,1.29E+16,Newmarket Suede Chelsea Boots
-1270,1.29E+16,Dover Textured-Leather Derby Shoes
-1271,1.29E+16,Dover Textured-Leather Derby Shoes
-1272,1.29E+16,Dover Textured-Leather Derby Shoes
-1273,1.29E+16,Nathan Suede Chukka Boots
+1268,12938511207098717,Suede Desert Boots
+1269,12938511207158741,Newmarket Suede Chelsea Boots
+1270,12938511207158743,Dover Textured-Leather Derby Shoes
+1271,12938511207158744,Dover Textured-Leather Derby Shoes
+1272,12938511207158745,Dover Textured-Leather Derby Shoes
+1273,12938511207259093,Nathan Suede Chukka Boots
 1274,12946_BKMT,Women's Skech-Air Dynamite
 1275,12946_GYMN,Women's Skech-Air Dynamite
 1276,12946_ROS,Women's Skech-Air Dynamite
@@ -1450,24 +1450,24 @@ shoesIDX,shoesID,pro_name
 1449,136019_BBK,Women's Skechers GOwalk Lite - Cheer
 1450,136019_NVPK,Women's Skechers GOwalk Lite - Cheer
 1451,136064-148,Air Jordan 3 Retro
-1452,1.39E+12,Cotton-Mesh and Canvas Espadrilles
-1453,1.39E+12,Canvas and Cotton-Mesh Espadrilles
-1454,1.39E+12,Canvas and Cotton-Mesh Espadrilles
-1455,1.39E+12,Cotton-Mesh Espadrilles
-1456,1.41E+16,Downeast Leather Boat Shoes
-1457,1.41E+16,Blucher Suede Boat Shoes
-1458,1.41E+16,Blucher Leather Boat Shoes
-1459,1.41E+16,Downeast Leather Boat Shoes
+1452,1392478686601,Cotton-Mesh and Canvas Espadrilles
+1453,1392478686602,Canvas and Cotton-Mesh Espadrilles
+1454,1392478686603,Canvas and Cotton-Mesh Espadrilles
+1455,1392478686604,Cotton-Mesh Espadrilles
+1456,14097096494105391,Downeast Leather Boat Shoes
+1457,14097096494105392,Blucher Suede Boat Shoes
+1458,14097096494105393,Blucher Leather Boat Shoes
+1459,14097096494105394,Downeast Leather Boat Shoes
 1460,14500_BBK,Women's Skechers GO STEP Lite - Dashing
 1461,14694_BBK,Women's Skechers H2GO - Flower Petal
 1462,14694_GYPK,Women's Skechers H2GO - Flower Petal
-1463,1.47E+15,Craftsman Leather Chelsea Boots
-1464,1.47E+15,Polished-Leather Derby Shoes
-1465,1.47E+15,Dubai Polished-Leather Oxford Shoes
-1466,1.47E+15,Oslo Polished-Leather Derby Shoes
-1467,1.47E+15,Polperro Nubuck-Trimmed Suede Penny Loafers
-1468,1.47E+15,Polperro Nubuck-Trimmed Suede Penny Loafers
-1469,1.47E+15,Downeast Nubuck Boat Shoes
+1463,1473020371368266,Craftsman Leather Chelsea Boots
+1464,1473020371368274,Polished-Leather Derby Shoes
+1465,1473020371378565,Dubai Polished-Leather Oxford Shoes
+1466,1473020371378580,Oslo Polished-Leather Derby Shoes
+1467,1473020371385919,Polperro Nubuck-Trimmed Suede Penny Loafers
+1468,1473020371416770,Polperro Nubuck-Trimmed Suede Penny Loafers
+1469,1473020371603682,Downeast Nubuck Boat Shoes
 1470,14874_WPR,Women's Skechers GO GOLF Max
 1471,14875_BKPR,Women's Skechers GO GOLF Max - Draw
 1472,14875_WBL,Women's Skechers GO GOLF Max - Draw
@@ -1770,7 +1770,7 @@ shoesIDX,shoesID,pro_name
 1769,204050_NVY,Men's Relaxed Fit: Doveno - Hangout
 1770,204056_CDB,Men's Relaxed Fit: Ralcon - Torado
 1771,204108_BRN,Men's Telmon - Out River
-1772,2.24E+15,Linen Espadrilles
+1772,2243576767563091,Linen Espadrilles
 1773,225008_CDB,Men's Mako - Cotter
 1774,2250_PUR,Women's Energy
 1775,2250_RED,Women's Energy
@@ -1787,47 +1787,47 @@ shoesIDX,shoesID,pro_name
 1786,23031_BLK,Women's Relaxed Fit: Breathe Easy - Simply Sincere
 1787,23045_GRY,Women's Relaxed Fit: Breathe Easy - Sweet Jam
 1788,23045_WHT,Women's Relaxed Fit: Breathe Easy - Sweet Jam
-1789,2.31E+15,Seaside Walk Collapsible-Heel Suede Espadrilles
-1790,2.31E+15,Summer Walk Suede-Trimmed Linen Loafers
-1791,2.31E+15,Arizonian Leather Sandals
-1792,2.31E+15,Brighton Suede Penny Loafers
-1793,2.31E+15,Pablo Suede Espadrilles
-1794,2.31E+15,Pablo Suede Espadrilles
-1795,2.31E+15,Arizona Suede Sandals
-1796,2.31E+15,Islington Suede Loafers
-1797,2.31E+15,Boston Suede Sandals
-1798,2.31E+15,#NAME?
-1799,2.31E+15,Polperro Leather-Trimmed Suede Penny Loafers
-1800,2.31E+15,Larry Leather Sneakers
-1801,2.31E+15,Suede Driving Shoes
-1802,2.31E+15,Leather Derby Shoes
-1803,2.31E+15,Polperro Leather-Trimmed Suede Penny Loafers
-1804,2.31E+15,Brighton Suede Penny Loafers
-1805,2.31E+15,Leather Penny Loafers
-1806,2.31E+15,Suede Chukka Boots
-1807,2.31E+15,Arizona Oiled-Nubuck Sandals
-1808,2.31E+15,#NAME?
-1809,2.31E+15,Adam Pebble-Grain Leather Penny Loafers
-1810,2.31E+15,Bostonian Leather Sandals
-1811,2.31E+15,#NAME?
-1812,2.31E+15,Arizona Oiled-Nubuck Sandals
-1813,2.31E+15,Harry II Burnished-Leather Tasselled Loafers
-1814,2.31E+15,Arizona Suede Sandals
-1815,2.31E+15,Hedsor Suede Loafers
-1816,2.31E+15,Larry Suede Sneakers
-1817,2.31E+15,Arizonian Leather Sandals
-1818,2.31E+15,OG Classic LX Canvas Slip-On Sneakers
-1819,2.31E+15,BBall Full-Grain Leather and Suede Sneakers
-1820,2.31E+15,Original Achilles Leather Sneakers
-1821,2.31E+15,Resort Classic Leather Sneakers
-1822,2.31E+15,Original Achilles Suede Sneakers
-1823,2.31E+15,"Cross Trainer Suede, Nylon and Leather Sneakers"
-1824,2.31E+15,Polished-Leather Boots
-1825,2.31E+15,Original Achilles Leather Sneakers
-1826,2.31E+15,Leather Boots
-1827,2.31E+15,Leather Boots
-1828,2.31E+15,Suede Espadrilles
-1829,2.31E+15,Velvet Espadrilles
+1789,2307389542101382,Seaside Walk Collapsible-Heel Suede Espadrilles
+1790,2307389542101384,Summer Walk Suede-Trimmed Linen Loafers
+1791,2307389542179546,Arizonian Leather Sandals
+1792,2307389542179825,Brighton Suede Penny Loafers
+1793,2307389542180589,Pablo Suede Espadrilles
+1794,2307389542180663,Pablo Suede Espadrilles
+1795,2307389542180858,Arizona Suede Sandals
+1796,2307389542180861,Islington Suede Loafers
+1797,2307389542180934,Boston Suede Sandals
+1798,2307389542181000,+ George Cleverley Leather Oxford Shoes
+1799,2307389542181008,Polperro Leather-Trimmed Suede Penny Loafers
+1800,2307389542181044,Larry Leather Sneakers
+1801,2307389542181383,Suede Driving Shoes
+1802,2307389542181436,Leather Derby Shoes
+1803,2307389542181452,Polperro Leather-Trimmed Suede Penny Loafers
+1804,2307389542181487,Brighton Suede Penny Loafers
+1805,2307389542181528,Leather Penny Loafers
+1806,2307389542181587,Suede Chukka Boots
+1807,2307389542181740,Arizona Oiled-Nubuck Sandals
+1808,2307389542181869,+ George Cleverley Whole-Cut Suede Oxford Shoes
+1809,2307389542181905,Adam Pebble-Grain Leather Penny Loafers
+1810,2307389542182005,Bostonian Leather Sandals
+1811,2307389542182017,+ George Cleverley Suede Chelsea Boots
+1812,2307389542182178,Arizona Oiled-Nubuck Sandals
+1813,2307389542182356,Harry II Burnished-Leather Tasselled Loafers
+1814,2307389542182463,Arizona Suede Sandals
+1815,2307389542182493,Hedsor Suede Loafers
+1816,2307389542182556,Larry Suede Sneakers
+1817,2307389542182581,Arizonian Leather Sandals
+1818,2307389542781606,OG Classic LX Canvas Slip-On Sneakers
+1819,2307389542911233,BBall Full-Grain Leather and Suede Sneakers
+1820,2307389542911235,Original Achilles Leather Sneakers
+1821,2307389542911237,Resort Classic Leather Sneakers
+1822,2307389542911243,Original Achilles Suede Sneakers
+1823,2307389542911246,"Cross Trainer Suede, Nylon and Leather Sneakers"
+1824,2307389542911250,Polished-Leather Boots
+1825,2307389542911252,Original Achilles Leather Sneakers
+1826,2307389542911254,Leather Boots
+1827,2307389542911263,Leather Boots
+1828,2307389542938295,Suede Espadrilles
+1829,2307389542938306,Velvet Espadrilles
 1830,23170_GRY,Women's Be-Lux - Easily Done
 1831,232001_CCBK,Men's Track - Knockhill
 1832,232001_NVOR,Men's Track - Knockhill
@@ -1948,7 +1948,7 @@ shoesIDX,shoesID,pro_name
 1947,3019973-105,UA Breathe Lace
 1948,3019973-500,UA Breathe Lace
 1949,3020005-001,UA Charged Escape
-1950,3020219-100,UA Micro G? Pursuit °X 4E Wide
+1950,3020219-100,UA Micro G? Pursuit ‚Äî 4E Wide
 1951,3020321-001,UA Charged Bandit 4 Team
 1952,3020326-004,UA Slingride 2
 1953,3020326-005,UA Slingride 2
@@ -2269,8 +2269,8 @@ shoesIDX,shoesID,pro_name
 2268,3022163-001,UA Breathe Lace NM2
 2269,3022163-400,UA Breathe Lace NM2
 2270,3022163-600,UA Breathe Lace NM2
-2271,3022190-001,UA Charged Rogue  °X Wide (4E)
-2272,3022205-002,UA HOVR? Infinite °X Wide (4E)
+2271,3022190-001,UA Charged Rogue  ‚Äî Wide (4E)
+2272,3022205-002,UA HOVR? Infinite ‚Äî Wide (4E)
 2273,3022206-002,UA HOVR? Apex
 2274,3022206-100,UA HOVR? Apex
 2275,3022206-101,UA HOVR? Apex
@@ -2333,8 +2333,8 @@ shoesIDX,shoesID,pro_name
 2332,3022644-402,UA HOVR? Sonic 2 'College Pride'
 2333,3022644-600,UA HOVR? Sonic 2 'College Pride'
 2334,3022644-601,UA HOVR? Sonic 2 'College Pride'
-2335,3022645-001,UA Charged Assert 8 °X Wide (D)
-2336,3022645-100,UA Charged Assert 8 °X Wide (D)
+2335,3022645-001,UA Charged Assert 8 ‚Äî Wide (D)
+2336,3022645-100,UA Charged Assert 8 ‚Äî Wide (D)
 2337,3022648-001,UA HOVR? Sonic 2 'College Pride'
 2338,3022648-100,UA HOVR? Sonic 2 'College Pride'
 2339,3022648-400,UA HOVR? Sonic 2 'College Pride'
@@ -2355,26 +2355,26 @@ shoesIDX,shoesID,pro_name
 2354,3022902-100,UA HOVR? SLK EVO x Pride
 2355,3022939-001,UA Jet
 2356,3022939-101,UA Jet
-2357,3.02E+15,Canvas and Cotton-Mesh Espadrilles
-2358,3.02E+15,875 Moc Leather Boots
-2359,3.02E+15,Pablo Canvas Espadrilles
-2360,3.02E+15,Dubai Polished-Leather Oxford Shoes
-2361,3.02E+15,Berlin Leather Wingtip Brogues
-2362,3.02E+15,Gommino Suede Driving Shoes
-2363,3.02E+15,Gommino Suede Driving Shoes
-2364,3.02E+15,Original Achilles Leather Sneakers
-2365,3.02E+15,City II Leather Oxford Shoes
-2366,3.02E+15,Alessandro Capri Leather Whole-Cut Oxford Shoes
-2367,3.02E+15,#NAME?
-2368,3.02E+15,#NAME?
-2369,3.02E+15,Craftsman Leather Chelsea Boots
-2370,3.02E+15,404 Claridge Whole-Cut Leather Oxford Shoes
-2371,3.02E+15,Original Achilles Leather Sneakers
-2372,3.02E+15,Suede Chelsea Boots
-2373,3.02E+15,City Gommino Leather Penny Loafers
+2357,3024088872826519,Canvas and Cotton-Mesh Espadrilles
+2358,3024088872826547,875 Moc Leather Boots
+2359,3024088872826572,Pablo Canvas Espadrilles
+2360,3024088872826588,Dubai Polished-Leather Oxford Shoes
+2361,3024088872826589,Berlin Leather Wingtip Brogues
+2362,3024088872826598,Gommino Suede Driving Shoes
+2363,3024088872826599,Gommino Suede Driving Shoes
+2364,3024088872826630,Original Achilles Leather Sneakers
+2365,3024088872827899,City II Leather Oxford Shoes
+2366,3024088872839219,Alessandro Capri Leather Whole-Cut Oxford Shoes
+2367,3024088872839233,+ George Cleverley Leather Oxford Shoes
+2368,3024088872839234,+ George Cleverley Patent-Leather Oxford Shoes
+2369,3024088872839331,Craftsman Leather Chelsea Boots
+2370,3024088872856887,404 Claridge Whole-Cut Leather Oxford Shoes
+2371,3024088872901549,Original Achilles Leather Sneakers
+2372,3024088872927384,Suede Chelsea Boots
+2373,3024088873005672,City Gommino Leather Penny Loafers
 2374,304775-053,Air Jordan 7 Retro
-2375,3.06E+15,Embellished Suede Jodhpur Boots
-2376,3.06E+15,Embellished Croc-Effect Leather Jodhpur Boots
+2375,3059655420953725,Embellished Suede Jodhpur Boots
+2376,3059655420953742,Embellished Croc-Effect Leather Jodhpur Boots
 2377,307960-203,Nike Air Max 95
 2378,310805-200,Air Jordan 10 Retro
 2379,310805-201,Air Jordan 10 Retro
@@ -2559,11 +2559,11 @@ shoesIDX,shoesID,pro_name
 2558,33493_NVY,Women's BOBS B Cute - Total Catch
 2559,33494_LPD,Women's BOBS B Cute - Meow Town
 2560,33496_GRY,Women's BOBS B Cute - Track Meet
-2561,3.36E+14,Jacques Leather Boots
-2562,3.36E+14,Leather Boots
-2563,3.36E+14,Larry Leather Sneakers
-2564,3.36E+14,Jacques Leather Derby Shoes
-2565,3.36E+14,Larry Suede Sneakers
+2561,336416600172053,Jacques Leather Boots
+2562,336416600172054,Leather Boots
+2563,336416600172055,Larry Leather Sneakers
+2564,336416600172056,Jacques Leather Derby Shoes
+2565,336416600172057,Larry Suede Sneakers
 2566,33645_BKW,Women's BOBS Plush - Peace and Love
 2567,33645_BLK,Women's BOBS Plush - Peace and Love
 2568,33645_BLSH,Women's BOBS Plush - Peace and Love
@@ -2604,233 +2604,233 @@ shoesIDX,shoesID,pro_name
 2603,34487_BRN,Women's BOBS Chill Luxe
 2604,34487_GRY,Women's BOBS Chill Luxe
 2605,34487_TPE,Women's BOBS Chill Luxe
-2606,3.61E+15,Suede Espadrilles
-2607,3.61E+15,Reuben Leather Wingtip Brogues
-2608,3.61E+15,Adam Cap-Toe Burnished-Leather Oxford Brogues
-2609,3.61E+15,Crus Woven Leather Sandals
-2610,3.61E+15,Lorenzo Leather Loafers
-2611,3.61E+15,Summer Walk Full-Grain Leather Loafers
-2612,3.61E+15,Summer Walk Full-Grain Leather Loafers
-2613,3.61E+15,Alejandro Collapsible-Heel Logo-Print Canvas Espadrilles
-2614,3.61E+15,Dylan Burnished-Leather Wingtip Brogues
-2615,3.61E+15,Archie Leather Wingtip Brogues
-2616,3.61E+15,Archie Leather Wingtip Brogues
-2617,3.63E+15,Thomas Suede Monk-Strap Shoes
-2618,3.63E+15,Fulham Suede Monk-Strap Shoes
-2619,3.63E+15,Fulham Suede Monk-Strap Shoes
-2620,3.63E+15,Gommino Suede Driving Shoes
-2621,3.63E+15,Gommino Suede Driving Shoes
-2622,3.63E+15,Gommino Suede Driving Shoes
-2623,3.63E+15,Ian Leather Penny Loafers
-2624,3.63E+15,William Leather Monk-Strap Shoes
-2625,3.63E+15,William Leather Monk-Strap Shoes
-2626,3.63E+15,Authentic Original Leather Boat Shoes
-2627,3.63E+15,Gommino Suede Driving Shoes
-2628,3.63E+15,Original Achilles Full-Grain Leather Sneakers
-2629,3.63E+15,Alessandro Eclair Whole-Cut Leather Oxford Shoes
-2630,3.72E+15,React Element 87 Ripstop Sneakers
-2631,3.72E+15,"Air Tailwind 79 Shell, Suede and Leather Sneakers"
-2632,3.72E+15,React Element 87 Ripstop Sneakers
-2633,3.72E+15,"P-6000 CNPT Leather, Mesh and Rubber Sneakers"
-2634,3.72E+15,"P-6000 Leather, Mesh and Rubber Sneakers"
-2635,3.72E+15,Air Max Tailwind IV Mesh and Leather Sneakers
-2636,3.98E+15,Jacques Full-Grain Leather Brogue Boots
-2637,3.98E+15,Alex Leather Sandals
-2638,3.98E+15,Antonio Suede Sandals
-2639,3.98E+15,Alex Suede Sandals
-2640,3.98E+15,Antonio Leather Sandals
-2641,3.98E+15,Venezia Whole-Cut Leather Oxford Shoes
-2642,3.98E+15,Exaggerated-Sole Suede-Trimmed Leather Sneakers
-2643,3.98E+15,Exaggerated-Sole Suede-Trimmed Leather Sneakers
-2644,3.98E+15,"Track Glow Nylon, Mesh and Rubber Sneakers"
-2645,3.98E+15,Collapsible-Heel Suede Loafers
-2646,3.98E+15,Webbing-Trimmed Leather and Wool Sandals
-2647,3.98E+15,Curt Hand-Painted Full-Grain Leather Derby Shoes
-2648,3.98E+15,Linen Espadrilles
-2649,3.98E+15,Leather and Webbing Sandals
-2650,3.98E+15,Patent-Leather and Mesh Sneakers
-2651,3.98E+15,Wade Suede Derby Shoes
-2652,3.98E+15,Suede Espadrilles
-2653,3.98E+15,Leather Chelsea Boots
-2654,3.98E+15,Leather Boots
-2655,3.98E+15,Rutherford Leather Boots
-2656,3.98E+15,Leather Chelsea Boots
-2657,3.98E+15,Alford Museum Burnished-Leather Cap-Toe Oxford Shoes
-2658,3.98E+15,Intrecciato Leather Driving Shoes
-2659,3.98E+15,Rutherford Leather and Suede Boots
-2660,3.98E+15,Linen Espadrilles
-2661,3.98E+15,Suede Espadrilles
-2662,3.98E+15,Suede Espadrilles
-2663,3.98E+15,Brady Suede Boots
-2664,3.98E+15,Wade Suede Derby Shoes
-2665,3.98E+15,Suede and Canvas Sneakers
-2666,3.98E+15,Leeds Polished-Leather Derby Shoes
-2667,3.98E+15,Spazzolato Leather and Canvas Boots
-2668,3.98E+15,Leather Brogues
-2669,3.98E+15,Spazzolato Leather Derby Shoes
-2670,3.98E+15,Leather-Trimmed Suede Boots
-2671,3.98E+15,2.0 Distressed Suede-Trimmed Leather Sneakers
-2672,3.98E+15,Suede-Trimmed Full-Grain Leather Sneakers
-2673,3.98E+15,Suede Boots
-2674,3.98E+15,Spazzolato Leather Chelsea Boots
-2675,3.98E+15,Cap-Toe Leather Derby Shoes
-2676,3.98E+15,Leeds Polished-Leather Derby Shoes
-2677,3.98E+15,Waldorf Suede Chukka Boots
-2678,3.98E+15,"Off-Court Distressed Suede, Leather and Canvas High-Top Sneakers"
-2679,3.98E+15,Textured-Leather and Neoprene Chelsea Boots
-2680,3.98E+15,Leather Derby Shoes
-2681,3.98E+15,2.0 Suede-Trimmed Cracked-Leather Sneakers
-2682,3.98E+15,Spazzolato Leather Derby Shoes
-2683,3.98E+15,Leather-Trimmed Logo-Jacquard Nylon Sandals
-2684,3.98E+15,Pebble-Grain Leather Derby Shoes
-2685,3.98E+15,Suede and Canvas Sneakers
-2686,3.98E+15,Suede and Leather Boots
-2687,3.98E+15,"Odsy-1000 Suede, Mesh and Rubber Sneakers"
-2688,3.98E+15,2.0 Distressed Suede-Trimmed Mesh Sneakers
-2689,3.98E+15,Leather Hiking Boots
-2690,3.98E+15,Logo-Jacquard Nylon and Leather Sandals
-2691,3.98E+15,Match Race Leather-Trimmed Nylon Sneakers
-2692,3.98E+15,+ Paula's Ibiza Logo-Print Canvas Sneakers
-2693,3.98E+15,Burnished-Leather Oxford Shoes
-2694,3.98E+15,Cap-Toe Leather Monk-Strap Shoes
-2695,3.98E+15,Cap-Toe Pebble-Grain Leather Oxford Shoes
-2696,3.98E+15,Adam Cap-Toe Burnished-Leather Oxford Brogues
-2697,3.98E+15,Shearling-Lined Leather Shoes
-2698,3.98E+15,Reuben Leather Wingtip Brogues
-2699,3.98E+15,Charles Cap-Toe Leather Oxford Shoes
-2700,3.98E+15,Adam Cap-Toe Burnished-Leather Oxford Brogues
-2701,3.98E+15,#NAME?
-2702,3.98E+15,"Logo-Detailed Rubber, Leather and Mesh Sandals"
-2703,3.98E+15,Leather Brogues
-2704,3.98E+15,#NAME?
-2705,3.98E+15,"Tinsel Logo-Detailed Rubber, Leather And Mesh Sandals"
-2706,3.98E+15,Jacques Suede Derby Shoes
-2707,3.98E+15,+ JW Anderson 1970s Chuck Taylor All Star Logo-Print Canvas High-Top Sneakers
-2708,3.98E+15,Lucien Suede Desert Boots
-2709,3.98E+15,Air Max Tailwind IV Mesh and Leather Sneakers
-2710,3.98E+15,Leather Chelsea Boots
-2711,3.98E+15,Leather Derby Shoes
-2712,3.98E+15,Leather Chelsea Boots
-2713,3.98E+15,Logo-Detailed Webbing and Rubber Sandals
-2714,3.98E+15,Logo-Appliqu?d Leather Sandals
-2715,3.98E+15,Maine Guide Suede Derby Shoes
-2716,3.98E+15,Angler Moc Nubuck Boat Shoes
-2717,3.98E+15,Panelled Pebble-Grain Leather Longwing Brogues
-2718,3.98E+15,Madson Hiker Waterproof Nubuck Boots
-2719,3.98E+15,Atlis Axe Waterproof Canvas-Trimmed Nubuck Boots
-2720,3.98E+15,Ankeny Waterproof Rubber and Suede-Trimmed Leather Boots
-2721,3.98E+15,Miles Suede Boots
-2722,3.98E+15,Suede Chelsea Boots
-2723,3.98E+15,Wyatt Suede Derby Shoes
-2724,3.98E+15,Miles Suede Boots
-2725,3.98E+15,Nu Pieds Leather Sandals
-2726,3.98E+15,Wyatt Leather Chelsea Boots
-2727,3.98E+15,Wyatt Suede Chelsea Boots
-2728,3.98E+15,Chester Leather Derby Shoes
-2729,3.98E+15,Canon Leather Chelsea Boots
-2730,3.98E+15,Volcov Polished-Leather Derby Shoes
-2731,3.98E+15,Manchester Burnished-Leather Boots
-2732,3.98E+15,Sheffield Polished-Leather Derby Shoes
-2733,3.98E+15,Huxley Suede Sneakers
-2734,3.98E+15,Anatomia Polished-Leather Derby Shoes
-2735,3.98E+15,Cross Leather Sandals
-2736,3.98E+15,Alder Burnished-Leather Boots
-2737,3.98E+15,Lopez Suede Penny Loafers
-2738,3.98E+15,Callington Museum Leather Tasselled Loafers
-2739,3.98E+15,Callington Museum Leather Tasselled Loafers
-2740,3.98E+15,Lopez Suede Penny Loafers
-2741,3.98E+15,Cap-Toe Suede Derby Shoes
-2742,3.98E+15,McPherson Pebble-Grain Leather Wingtip Brogues
-2743,3.98E+15,Arizona Suede Sandals
-2744,3.98E+15,Arizona EVA Sandals
-2745,3.98E+15,Boston Suede Sandals
-2746,3.98E+15,Arizona Suede Sandals
-2747,3.98E+15,Boston Shearling-Lined Suede Sandals
-2748,3.98E+15,Boston Shearling-Lined Suede Sandals
-2749,3.98E+15,Sportivo Suede and Neoprene Sneakers
-2750,3.98E+15,Gommino Suede Driving Shoes
-2751,3.98E+15,Suede Penny Loafers
-2752,3.98E+15,City Gommino Full-Grain Leather Driving Shoes
-2753,3.98E+15,Leather Driving Shoes
-2754,3.98E+15,Suede Chelsea Boots
-2755,3.98E+15,Gommino Suede Driving Shoes
-2756,3.98E+15,Burnished-Leather Driving Shoes
-2757,3.98E+15,Replica Suede and Leather Sneakers
-2758,3.98E+15,Suede Penny Loafers
-2759,3.98E+15,Gommino Full-Grain Leather Driving Shoes
-2760,3.98E+15,Gommino Suede Driving Shoes
-2761,3.98E+15,Suede Tasselled Loafers
-2762,3.98E+15,Gommino Suede Driving Shoes
-2763,3.98E+15,Gommino Suede Driving Shoes
-2764,3.98E+15,Suede Wingtip Brogues
-2765,3.98E+15,Suede Chukka Boots
-2766,3.98E+15,Beuys Trekker Folk Leather-Trimmed Suede Boots
-2767,3.98E+15,Roland Leather and Mesh Sneakers
-2768,3.98E+15,Wessex Burnished-Leather Penny Loafers
-2769,3.98E+15,Stuart Polished-Leather Chelsea Boots
-2770,3.98E+15,Wessex Burnished-Leather Brogues
-2771,3.98E+15,Fry Full-Grain Leather Monk-Strap Boots
-2772,3.98E+15,Charles Cap-Toe Leather Oxford Shoes
-2773,3.98E+15,Anthony Pebble-Grain Leather Oxford Brogues
-2774,3.98E+15,Alan 3 Whole-Cut Leather Oxford Shoes
-2775,3.98E+15,Bradley 2 Leather Penny Loafers
-2776,3.98E+15,Alan 3 Whole-Cut Leather Oxford Shoes
-2777,3.98E+15,Anthony Pebble-Grain Leather Oxford Brogues
-2778,4.07E+15,Stanley Leather Wingtip Brogues
-2779,4.07E+15,Prestige Becketts Leather Oxford Shoes
-2780,4.07E+15,Pablo Canvas Espadrilles
-2781,4.07E+15,Cotton-Mesh and Canvas Espadrilles
-2782,4.07E+15,Authentic Original Burnished-Leather Boat Shoes
-2783,4.07E+15,Pablo Canvas Espadrilles
-2784,4.07E+15,Pablo Canvas Espadrilles
-2785,4.07E+15,Berlin Leather Wingtip Brogues
-2786,4.07E+15,Gommino Suede Driving Shoes
-2787,4.07E+15,Gommino Nubuck Driving Shoes
-2788,4.07E+15,Chetwynd Leather Oxford Brogues
-2789,4.07E+15,Authentic Original Leather Boat Shoes
-2790,4.15E+15,Gommino Suede Driving Shoes
-2791,4.15E+15,180 The Moccasin Full-Grain Leather and Suede Penny Loafers
-2792,4.15E+15,180 The Moccasin Full-Grain Leather and Suede Penny Loafers
-2793,4.15E+15,Galway Cap-Toe Textured-Leather Boots
-2794,4.15E+15,Gardener Whole-Cut Leather Chelsea Boots
-2795,4.15E+15,Comfort Craftsman Suede Chelsea Boots
-2796,4.15E+15,Arley Leather Derby Shoes
-2797,4.15E+15,Bonny Horsebit Collapsible-Heel Webbing-Trimmed Full-Grain Leather Loafers
-2798,4.15E+15,"Flashtrek Reflective Rubber, Leather and Mesh Sneakers"
-2799,4.15E+15,Jordaan Horsebit Burnished-Leather Loafers
-2800,4.15E+15,Jordaan Horsebit Burnished-Leather Loafers
-2801,4.15E+15,Roos Horsebit Leather Loafers
-2802,4.15E+15,Pebble-Grain Leather Longwing Brogues
-2803,4.15E+15,Earl Suede-Trimmed Leather Sneakers
-2804,4.15E+15,Alessio Padova Venezia Leather Oxford Shoes
-2805,4.15E+15,Alessio Padova Venezia Leather Oxford Shoes
-2806,4.15E+15,Exaggerated-Sole Leather Sneakers
-2807,4.15E+15,Country Leather Wingtip Brogues
-2808,4.15E+15,Brady Brushed-Suede Boots
-2809,4.15E+15,Gommino Nubuck Penny Loafers
-2810,4.15E+15,Tabi Collapsible-Heel Split-Toe Leather Loafers
-2811,4.15E+15,Dennis Collapsible-Heel Suede Loafers
-2812,4.15E+15,Lucien Suede Derby Shoes
-2813,4.15E+15,Lucien Suede Derby Shoes
-2814,4.15E+15,Lucien Suede Desert Boots
-2815,4.15E+15,Jacques Leather Penny Loafers
-2816,4.15E+15,Jacques Suede Loafers
-2817,4.15E+15,Jacques Leather Derby Shoes
-2818,4.15E+15,Jacques Suede Derby Shoes
-2819,4.15E+15,Dennis Suede Boat Shoes
-2820,4.15E+15,Leather and Suede Sandals
-2821,4.15E+15,Jacques Suede Derby Shoes
-2822,4.15E+15,Milano 70 Nylon and Suede Sneakers
-2823,4.15E+15,Colour-Block Leather Boat Shoes
-2824,4.15E+15,Leather Boat Shoes
-2825,4.15E+15,Leather Boat Shoes
-2826,4.15E+15,Sennen Burnished-Leather Monk Strap Shoes
-2827,4.15E+15,Camden Suede Chelsea Boots
-2828,4.15E+15,Lambourne Textured-Leather Boots
-2829,4.15E+15,Whole-Cut Leather Oxford Shoes
-2830,4.15E+15,R?mi Whole-Cut Leather Oxford Shoes
-2831,4.15E+15,Lopez Full-Grain Leather Penny Loafers
-2832,4.15E+15,Thorne Suede Penny Loafers
+2606,3607804571844064,Suede Espadrilles
+2607,3607804571908681,Reuben Leather Wingtip Brogues
+2608,3607804571908683,Adam Cap-Toe Burnished-Leather Oxford Brogues
+2609,3607804572053309,Crus Woven Leather Sandals
+2610,3607804572092315,Lorenzo Leather Loafers
+2611,3607804572155365,Summer Walk Full-Grain Leather Loafers
+2612,3607804572155366,Summer Walk Full-Grain Leather Loafers
+2613,3607804572193633,Alejandro Collapsible-Heel Logo-Print Canvas Espadrilles
+2614,3607804572252113,Dylan Burnished-Leather Wingtip Brogues
+2615,3607804572252116,Archie Leather Wingtip Brogues
+2616,3607804572252117,Archie Leather Wingtip Brogues
+2617,3633577410768840,Thomas Suede Monk-Strap Shoes
+2618,3633577411364892,Fulham Suede Monk-Strap Shoes
+2619,3633577411364893,Fulham Suede Monk-Strap Shoes
+2620,3633577411817312,Gommino Suede Driving Shoes
+2621,3633577411817313,Gommino Suede Driving Shoes
+2622,3633577411817314,Gommino Suede Driving Shoes
+2623,3633577411903746,Ian Leather Penny Loafers
+2624,3633577412066253,William Leather Monk-Strap Shoes
+2625,3633577412068119,William Leather Monk-Strap Shoes
+2626,3633577412087766,Authentic Original Leather Boat Shoes
+2627,3633577413084157,Gommino Suede Driving Shoes
+2628,3633577413460344,Original Achilles Full-Grain Leather Sneakers
+2629,3633577413623753,Alessandro Eclair Whole-Cut Leather Oxford Shoes
+2630,3717188845459853,React Element 87 Ripstop Sneakers
+2631,3717188845459878,"Air Tailwind 79 Shell, Suede and Leather Sneakers"
+2632,3717188845459879,React Element 87 Ripstop Sneakers
+2633,3717188845459895,"P-6000 CNPT Leather, Mesh and Rubber Sneakers"
+2634,3717188845459910,"P-6000 Leather, Mesh and Rubber Sneakers"
+2635,3717188845459911,Air Max Tailwind IV Mesh and Leather Sneakers
+2636,3983529957813450,Jacques Full-Grain Leather Brogue Boots
+2637,3983529957846122,Alex Leather Sandals
+2638,3983529957846123,Antonio Suede Sandals
+2639,3983529957846135,Alex Suede Sandals
+2640,3983529957846136,Antonio Leather Sandals
+2641,3983529957918573,Venezia Whole-Cut Leather Oxford Shoes
+2642,3983529957918585,Exaggerated-Sole Suede-Trimmed Leather Sneakers
+2643,3983529957918600,Exaggerated-Sole Suede-Trimmed Leather Sneakers
+2644,3983529957918616,"Track Glow Nylon, Mesh and Rubber Sneakers"
+2645,3983529957977767,Collapsible-Heel Suede Loafers
+2646,3983529957977773,Webbing-Trimmed Leather and Wool Sandals
+2647,3983529957977775,Curt Hand-Painted Full-Grain Leather Derby Shoes
+2648,3983529957977791,Linen Espadrilles
+2649,3983529957977813,Leather and Webbing Sandals
+2650,3983529957977815,Patent-Leather and Mesh Sneakers
+2651,3983529957977816,Wade Suede Derby Shoes
+2652,3983529957977824,Suede Espadrilles
+2653,3983529957977832,Leather Chelsea Boots
+2654,3983529957977833,Leather Boots
+2655,3983529957977835,Rutherford Leather Boots
+2656,3983529957977852,Leather Chelsea Boots
+2657,3983529957977857,Alford Museum Burnished-Leather Cap-Toe Oxford Shoes
+2658,3983529957977870,Intrecciato Leather Driving Shoes
+2659,3983529957977872,Rutherford Leather and Suede Boots
+2660,3983529957977876,Linen Espadrilles
+2661,3983529957977890,Suede Espadrilles
+2662,3983529957977891,Suede Espadrilles
+2663,3983529957977916,Brady Suede Boots
+2664,3983529957977931,Wade Suede Derby Shoes
+2665,3983529958022064,Suede and Canvas Sneakers
+2666,3983529958022070,Leeds Polished-Leather Derby Shoes
+2667,3983529958022073,Spazzolato Leather and Canvas Boots
+2668,3983529958022076,Leather Brogues
+2669,3983529958022078,Spazzolato Leather Derby Shoes
+2670,3983529958022084,Leather-Trimmed Suede Boots
+2671,3983529958022086,2.0 Distressed Suede-Trimmed Leather Sneakers
+2672,3983529958022093,Suede-Trimmed Full-Grain Leather Sneakers
+2673,3983529958022097,Suede Boots
+2674,3983529958022098,Spazzolato Leather Chelsea Boots
+2675,3983529958022099,Cap-Toe Leather Derby Shoes
+2676,3983529958022102,Leeds Polished-Leather Derby Shoes
+2677,3983529958022104,Waldorf Suede Chukka Boots
+2678,3983529958022105,"Off-Court Distressed Suede, Leather and Canvas High-Top Sneakers"
+2679,3983529958022109,Textured-Leather and Neoprene Chelsea Boots
+2680,3983529958022110,Leather Derby Shoes
+2681,3983529958022117,2.0 Suede-Trimmed Cracked-Leather Sneakers
+2682,3983529958022124,Spazzolato Leather Derby Shoes
+2683,3983529958022125,Leather-Trimmed Logo-Jacquard Nylon Sandals
+2684,3983529958022126,Pebble-Grain Leather Derby Shoes
+2685,3983529958022129,Suede and Canvas Sneakers
+2686,3983529958022130,Suede and Leather Boots
+2687,3983529958022139,"Odsy-1000 Suede, Mesh and Rubber Sneakers"
+2688,3983529958022141,2.0 Distressed Suede-Trimmed Mesh Sneakers
+2689,3983529958022142,Leather Hiking Boots
+2690,3983529958022143,Logo-Jacquard Nylon and Leather Sandals
+2691,3983529958022146,Match Race Leather-Trimmed Nylon Sneakers
+2692,3983529958257973,+ Paula's Ibiza Logo-Print Canvas Sneakers
+2693,3983529958286388,Burnished-Leather Oxford Shoes
+2694,3983529958286389,Cap-Toe Leather Monk-Strap Shoes
+2695,3983529958286396,Cap-Toe Pebble-Grain Leather Oxford Shoes
+2696,3983529958722887,Adam Cap-Toe Burnished-Leather Oxford Brogues
+2697,3983529958723430,Shearling-Lined Leather Shoes
+2698,3983529958723474,Reuben Leather Wingtip Brogues
+2699,3983529958723743,Charles Cap-Toe Leather Oxford Shoes
+2700,3983529958724037,Adam Cap-Toe Burnished-Leather Oxford Brogues
+2701,3983529958961858,+ Undercover Daybreak Leather-Trimmed Nylon and Suede Sneakers
+2702,3983529959371362,"Logo-Detailed Rubber, Leather and Mesh Sandals"
+2703,3983529959371385,Leather Brogues
+2704,3983529959371420,+  TAKAHIROMIYASHITA TheSoloist. Jack Purcell Zip Printed Canvas Sneakers
+2705,3983529959371532,"Tinsel Logo-Detailed Rubber, Leather And Mesh Sandals"
+2706,3983529959371543,Jacques Suede Derby Shoes
+2707,3983529959371697,+ JW Anderson 1970s Chuck Taylor All Star Logo-Print Canvas High-Top Sneakers
+2708,3983529959371712,Lucien Suede Desert Boots
+2709,3983529959476623,Air Max Tailwind IV Mesh and Leather Sneakers
+2710,3983529959566538,Leather Chelsea Boots
+2711,3983529959566540,Leather Derby Shoes
+2712,3983529959566541,Leather Chelsea Boots
+2713,3983529959574979,Logo-Detailed Webbing and Rubber Sandals
+2714,3983529959609357,Logo-Appliqu√©d Leather Sandals
+2715,3983529959609364,Maine Guide Suede Derby Shoes
+2716,3983529959609368,Angler Moc Nubuck Boat Shoes
+2717,3983529959620839,Panelled Pebble-Grain Leather Longwing Brogues
+2718,3983529959620853,Madson Hiker Waterproof Nubuck Boots
+2719,3983529959620855,Atlis Axe Waterproof Canvas-Trimmed Nubuck Boots
+2720,3983529959620859,Ankeny Waterproof Rubber and Suede-Trimmed Leather Boots
+2721,3983529959620863,Miles Suede Boots
+2722,3983529959620864,Suede Chelsea Boots
+2723,3983529959620865,Wyatt Suede Derby Shoes
+2724,3983529959633803,Miles Suede Boots
+2725,3983529959633806,Nu Pieds Leather Sandals
+2726,3983529959633812,Wyatt Leather Chelsea Boots
+2727,3983529959633814,Wyatt Suede Chelsea Boots
+2728,3983529959633833,Chester Leather Derby Shoes
+2729,3983529959633840,Canon Leather Chelsea Boots
+2730,3983529959633841,Volcov Polished-Leather Derby Shoes
+2731,3983529959633845,Manchester Burnished-Leather Boots
+2732,3983529959633849,Sheffield Polished-Leather Derby Shoes
+2733,3983529959633850,Huxley Suede Sneakers
+2734,3983529959633851,Anatomia Polished-Leather Derby Shoes
+2735,3983529959645091,Cross Leather Sandals
+2736,3983529959645095,Alder Burnished-Leather Boots
+2737,3983529959645096,Lopez Suede Penny Loafers
+2738,3983529959645097,Callington Museum Leather Tasselled Loafers
+2739,3983529959645098,Callington Museum Leather Tasselled Loafers
+2740,3983529959645099,Lopez Suede Penny Loafers
+2741,3983529959645100,Cap-Toe Suede Derby Shoes
+2742,3983529959648254,McPherson Pebble-Grain Leather Wingtip Brogues
+2743,3983529959672204,Arizona Suede Sandals
+2744,3983529959672205,Arizona EVA Sandals
+2745,3983529959672207,Boston Suede Sandals
+2746,3983529959672208,Arizona Suede Sandals
+2747,3983529959672209,Boston Shearling-Lined Suede Sandals
+2748,3983529959672210,Boston Shearling-Lined Suede Sandals
+2749,3983529959676234,Sportivo Suede and Neoprene Sneakers
+2750,3983529959676235,Gommino Suede Driving Shoes
+2751,3983529959676238,Suede Penny Loafers
+2752,3983529959676239,City Gommino Full-Grain Leather Driving Shoes
+2753,3983529959676240,Leather Driving Shoes
+2754,3983529959676242,Suede Chelsea Boots
+2755,3983529959676243,Gommino Suede Driving Shoes
+2756,3983529959676253,Burnished-Leather Driving Shoes
+2757,3983529959676254,Replica Suede and Leather Sneakers
+2758,3983529959676257,Suede Penny Loafers
+2759,3983529959676259,Gommino Full-Grain Leather Driving Shoes
+2760,3983529959676263,Gommino Suede Driving Shoes
+2761,3983529959676267,Suede Tasselled Loafers
+2762,3983529959676269,Gommino Suede Driving Shoes
+2763,3983529959676272,Gommino Suede Driving Shoes
+2764,3983529959676273,Suede Wingtip Brogues
+2765,3983529959676282,Suede Chukka Boots
+2766,3983529959676287,Beuys Trekker Folk Leather-Trimmed Suede Boots
+2767,3983529959676289,Roland Leather and Mesh Sneakers
+2768,3983529959676296,Wessex Burnished-Leather Penny Loafers
+2769,3983529959676301,Stuart Polished-Leather Chelsea Boots
+2770,3983529959676303,Wessex Burnished-Leather Brogues
+2771,3983529959720243,Fry Full-Grain Leather Monk-Strap Boots
+2772,3983529959720246,Charles Cap-Toe Leather Oxford Shoes
+2773,3983529959720248,Anthony Pebble-Grain Leather Oxford Brogues
+2774,3983529959720249,Alan 3 Whole-Cut Leather Oxford Shoes
+2775,3983529959720253,Bradley 2 Leather Penny Loafers
+2776,3983529959720254,Alan 3 Whole-Cut Leather Oxford Shoes
+2777,3983529959720256,Anthony Pebble-Grain Leather Oxford Brogues
+2778,4068790126374622,Stanley Leather Wingtip Brogues
+2779,4068790126374761,Prestige Becketts Leather Oxford Shoes
+2780,4068790126393286,Pablo Canvas Espadrilles
+2781,4068790126411208,Cotton-Mesh and Canvas Espadrilles
+2782,4068790126445573,Authentic Original Burnished-Leather Boat Shoes
+2783,4068790126459488,Pablo Canvas Espadrilles
+2784,4068790126459489,Pablo Canvas Espadrilles
+2785,4068790126533027,Berlin Leather Wingtip Brogues
+2786,4068790126578662,Gommino Suede Driving Shoes
+2787,4068790126578702,Gommino Nubuck Driving Shoes
+2788,4068790126661171,Chetwynd Leather Oxford Brogues
+2789,4068790126684419,Authentic Original Leather Boat Shoes
+2790,4146401442995059,Gommino Suede Driving Shoes
+2791,4146401442995426,180 The Moccasin Full-Grain Leather and Suede Penny Loafers
+2792,4146401442995427,180 The Moccasin Full-Grain Leather and Suede Penny Loafers
+2793,4146401442999224,Galway Cap-Toe Textured-Leather Boots
+2794,4146401443075466,Gardener Whole-Cut Leather Chelsea Boots
+2795,4146401443075468,Comfort Craftsman Suede Chelsea Boots
+2796,4146401443885144,Arley Leather Derby Shoes
+2797,4146401443885145,Bonny Horsebit Collapsible-Heel Webbing-Trimmed Full-Grain Leather Loafers
+2798,4146401443885153,"Flashtrek Reflective Rubber, Leather and Mesh Sneakers"
+2799,4146401443885168,Jordaan Horsebit Burnished-Leather Loafers
+2800,4146401443885169,Jordaan Horsebit Burnished-Leather Loafers
+2801,4146401443885171,Roos Horsebit Leather Loafers
+2802,4146401443919996,Pebble-Grain Leather Longwing Brogues
+2803,4146401443943001,Earl Suede-Trimmed Leather Sneakers
+2804,4146401443943008,Alessio Padova Venezia Leather Oxford Shoes
+2805,4146401443943011,Alessio Padova Venezia Leather Oxford Shoes
+2806,4146401443943123,Exaggerated-Sole Leather Sneakers
+2807,4146401444051186,Country Leather Wingtip Brogues
+2808,4146401444107635,Brady Brushed-Suede Boots
+2809,4146401444118918,Gommino Nubuck Penny Loafers
+2810,4146401444162886,Tabi Collapsible-Heel Split-Toe Leather Loafers
+2811,4146401444198935,Dennis Collapsible-Heel Suede Loafers
+2812,4146401444198937,Lucien Suede Derby Shoes
+2813,4146401444198938,Lucien Suede Derby Shoes
+2814,4146401444198939,Lucien Suede Desert Boots
+2815,4146401444198940,Jacques Leather Penny Loafers
+2816,4146401444198941,Jacques Suede Loafers
+2817,4146401444198942,Jacques Leather Derby Shoes
+2818,4146401444198943,Jacques Suede Derby Shoes
+2819,4146401444198946,Dennis Suede Boat Shoes
+2820,4146401444198955,Leather and Suede Sandals
+2821,4146401444198956,Jacques Suede Derby Shoes
+2822,4146401444235937,Milano 70 Nylon and Suede Sneakers
+2823,4146401444235946,Colour-Block Leather Boat Shoes
+2824,4146401444235947,Leather Boat Shoes
+2825,4146401444235948,Leather Boat Shoes
+2826,4146401444285882,Sennen Burnished-Leather Monk Strap Shoes
+2827,4146401444285884,Camden Suede Chelsea Boots
+2828,4146401444285885,Lambourne Textured-Leather Boots
+2829,4146401444285894,Whole-Cut Leather Oxford Shoes
+2830,4146401444285895,R√©mi Whole-Cut Leather Oxford Shoes
+2831,4146401444287290,Lopez Full-Grain Leather Penny Loafers
+2832,4146401444287310,Thorne Suede Penny Loafers
 2833,415339-300,Nike Zoom LJ 4
 2834,416355-001,Nike Air Monarch IV (Extra Wide)
 2835,416355-101,Nike Air Monarch IV (Extra Wide)
@@ -3028,13 +3028,13 @@ shoesIDX,shoesID,pro_name
 3027,51610_BRBK,Men's Relaxed Fit: Outland 2.0 - Stallwood
 3028,51610_CCBK,Men's Relaxed Fit: Outland 2.0 - Stallwood
 3029,51716_OFWT,Men's Skechers Monster - Kyreko
-3030,5.18E+15,Berlin Leather Wingtip Brogues
-3031,5.18E+15,Dubai Polished-Leather Oxford Shoes
-3032,5.18E+15,Berlin Leather Wingtip Brogues
-3033,5.18E+15,Oslo Polished-Leather Derby Shoes
-3034,5.18E+15,Prenton Leather Chelsea Boots
-3035,5.18E+15,Dubai Polished-Leather Oxford Shoes
-3036,5.18E+15,Dubai Polished-Leather Oxford Shoes
+3030,5179529849991959,Berlin Leather Wingtip Brogues
+3031,5179529849991960,Dubai Polished-Leather Oxford Shoes
+3032,5179529849991961,Berlin Leather Wingtip Brogues
+3033,5179529849991962,Oslo Polished-Leather Derby Shoes
+3034,5179529849991963,Prenton Leather Chelsea Boots
+3035,5179529849991964,Dubai Polished-Leather Oxford Shoes
+3036,5179529849991965,Dubai Polished-Leather Oxford Shoes
 3037,51828_WHT,Men's Energy - Brunkz
 3038,51844_BKCC,Men's Terrabite
 3039,51844_BROR,Men's Terrabite
@@ -3243,18 +3243,18 @@ shoesIDX,shoesID,pro_name
 3242,532225-006,Jordan Hydro 4 Retro
 3243,532225-007,Jordan Hydro 4 Retro
 3244,54152_BBK,Men's Skechers GOwalk 4 - Incredible
-3245,5.43E+15,Burnished-Leather Derby Shoes
-3246,5.43E+15,Suede Chelsea Boots
-3247,5.43E+15,Jaw Logo-Jacquard Webbing and Faux Leather Sandals
-3248,5.43E+15,Open Walk Suede Boots
-3249,5.43E+15,Open Walk Suede Boots
-3250,5.43E+15,City Life Suede Penny Loafers
-3251,5.43E+15,Summer Walk Suede Loafers
-3252,5.43E+15,Summer Walk Suede Loafers
-3253,5.43E+15,Summer Walk Suede Loafers
-3254,5.43E+15,Summer Walk Suede Loafers
-3255,5.43E+15,Summer Walk Suede Loafers
-3256,5.44E+15,"Yeezy Boost 700 V2 Nubuck, Leather and Mesh Sneakers"
+3245,5432698981486146,Burnished-Leather Derby Shoes
+3246,5432698981486159,Suede Chelsea Boots
+3247,5432698981498444,Jaw Logo-Jacquard Webbing and Faux Leather Sandals
+3248,5432698981522129,Open Walk Suede Boots
+3249,5432698981522131,Open Walk Suede Boots
+3250,5432698981522134,City Life Suede Penny Loafers
+3251,5432698981522138,Summer Walk Suede Loafers
+3252,5432698981522140,Summer Walk Suede Loafers
+3253,5432698981522142,Summer Walk Suede Loafers
+3254,5432698981522143,Summer Walk Suede Loafers
+3255,5432698981522144,Summer Walk Suede Loafers
+3256,5439682798429631,"Yeezy Boost 700 V2 Nubuck, Leather and Mesh Sneakers"
 3257,54410_BKW,Men's Skechers GOtrain Venom - Caliper
 3258,54410_WHT,Men's Skechers GOtrain Venom - Caliper
 3259,54430_BBK,Men's Skechers Max Cushioning Elite
@@ -3323,24 +3323,24 @@ shoesIDX,shoesID,pro_name
 3322,54738_KHK,Men's Skechers GOwalk Evolution Ultra - Impeccable
 3323,54738_NVGY,Men's Skechers GOwalk Evolution Ultra - Impeccable
 3324,54742_NVOR,Men's Skechers GOwalk Evolution Ultra - Intercept
-3325,5.48E+14,Leather-Trimmed Logo-Embroidered Velvet Slides
-3326,5.48E+14,Brixton Webbing-Trimmed Horsebit Collapsible-Heel Canvas and Leather Loafers
-3327,5.48E+14,New Jordaan Horsebit Leather-Trimmed Logo-Embroidered Velvet Loafers
-3328,5.48E+14,Ace Distressed Leather Sneakers
-3329,5.48E+14,Matador Horsebit Leather-Trimmed Suede Espadrilles
-3330,5.48E+14,Suede-Trimmed Monogrammed Canvas Slides
-3331,5.48E+14,New Arley Pebble-Grain Leather Brogue Boots
-3332,5.48E+14,Matador Horsebit Logo-Jacquard Canvas Backless Espadrilles
-3333,5.48E+14,Fria Horsebit Logo-Print Wool Loafers
-3334,5.48E+14,Brixton Webbing-Trimmed Horsebit Collapsible-Heel Leather Loafers
-3335,5.48E+14,Leather and Mesh Sandals
-3336,5.48E+14,Ace Logo-Print Leather Sneakers
-3337,5.48E+14,Ace Leather-Trimmed Logo-Print Terry Sneakers
-3338,5.48E+14,Suede-Trimmed Monogrammed Canvas Sandals
-3339,5.48E+14,Brixton Webbing-Trimmed Horsebit Collapsible-Heel Leather Loafers
-3340,5.48E+14,Horsebit Leather-Trimmed Logo-Jacquard Canvas Espadrilles
-3341,5.48E+14,Suede Chukka Boots
-3342,5.48E+14,Ludlow Polished-Leather Derby Shoes
+3325,547799495796783,Leather-Trimmed Logo-Embroidered Velvet Slides
+3326,547799495796784,Brixton Webbing-Trimmed Horsebit Collapsible-Heel Canvas and Leather Loafers
+3327,547799495796786,New Jordaan Horsebit Leather-Trimmed Logo-Embroidered Velvet Loafers
+3328,547799495796789,Ace Distressed Leather Sneakers
+3329,547799495796790,Matador Horsebit Leather-Trimmed Suede Espadrilles
+3330,547799495796791,Suede-Trimmed Monogrammed Canvas Slides
+3331,547799495796792,New Arley Pebble-Grain Leather Brogue Boots
+3332,547799495796797,Matador Horsebit Logo-Jacquard Canvas Backless Espadrilles
+3333,547799495796798,Fria Horsebit Logo-Print Wool Loafers
+3334,547799495796799,Brixton Webbing-Trimmed Horsebit Collapsible-Heel Leather Loafers
+3335,547799495796800,Leather and Mesh Sandals
+3336,547799495804440,Ace Logo-Print Leather Sneakers
+3337,547799495804442,Ace Leather-Trimmed Logo-Print Terry Sneakers
+3338,547799495804449,Suede-Trimmed Monogrammed Canvas Sandals
+3339,547799495804450,Brixton Webbing-Trimmed Horsebit Collapsible-Heel Leather Loafers
+3340,547799495804453,Horsebit Leather-Trimmed Logo-Jacquard Canvas Espadrilles
+3341,547799495811093,Suede Chukka Boots
+3342,547799495817777,Ludlow Polished-Leather Derby Shoes
 3343,54840_CCOR,Men's Skechers GOrun Vortex - Rush
 3344,54840_NVYL,Men's Skechers GOrun Vortex - Rush
 3345,54850_BKBL,Men's Skechers GOrun Vortex - Contra
@@ -3389,28 +3389,28 @@ shoesIDX,shoesID,pro_name
 3388,55250_BKRD,Men's Skechers GOrun Power
 3389,55250_NVLM,Men's Skechers GOrun Power
 3390,55252_WGN,Men's Skechers GOwalk Hyper - Tempo
-3391,5.53E+15,Lucien Polished-Leather Derby Shoes
-3392,5.53E+15,Lucien Suede Desert Boots
-3393,5.53E+15,Lucien Suede Desert Boots
-3394,5.53E+15,Jacques Shearling-Lined Waxed-Suede Boots
-3395,5.53E+15,Jacques Shearling-Lined Waxed-Suede Boots
-3396,5.53E+15,Alperton 2.0 Leather Boots
-3397,5.53E+15,Haston Colour-Block Rubber Flip Flops
-3398,5.53E+15,Haston Colour-Block Rubber Flip Flops
-3399,5.53E+15,Haston Colour-Block Rubber Flip Flops
-3400,5.53E+15,+ 007 Thunderball Canvas Espadrilles
-3401,5.53E+15,Egide Suede and Nylon Boots
-3402,5.53E+15,Peak Pebble-Grain Leather Hiking Boots
-3403,5.53E+15,Peak Suede Hiking Boots
-3404,5.53E+15,Leather Boots
-3405,5.53E+15,Leather Boots
-3406,5.53E+15,Croc-Effect Leather Loafers
-3407,5.53E+15,Polished-Leather Derby Shoes
-3408,5.53E+15,Listone Burnished-Leather Chelsea Boots
-3409,5.53E+15,Center Leather Chelsea Boots
-3410,5.53E+15,Distressed Leather Derby Shoes
-3411,5.53E+15,Full-Grain Leather Derby Shoes
-3412,5.53E+15,Mentone Leather Derby Shoes
+3391,5526882327949073,Lucien Polished-Leather Derby Shoes
+3392,5526882327949563,Lucien Suede Desert Boots
+3393,5526882327949564,Lucien Suede Desert Boots
+3394,5526882327949566,Jacques Shearling-Lined Waxed-Suede Boots
+3395,5526882327949567,Jacques Shearling-Lined Waxed-Suede Boots
+3396,5526882327952111,Alperton 2.0 Leather Boots
+3397,5526882328066601,Haston Colour-Block Rubber Flip Flops
+3398,5526882328066620,Haston Colour-Block Rubber Flip Flops
+3399,5526882328066621,Haston Colour-Block Rubber Flip Flops
+3400,5526882328077282,+ 007 Thunderball Canvas Espadrilles
+3401,5526882328139129,Egide Suede and Nylon Boots
+3402,5526882328139133,Peak Pebble-Grain Leather Hiking Boots
+3403,5526882328139134,Peak Suede Hiking Boots
+3404,5526882328139138,Leather Boots
+3405,5526882328139141,Leather Boots
+3406,5526882328139142,Croc-Effect Leather Loafers
+3407,5526882328139147,Polished-Leather Derby Shoes
+3408,5526882328147776,Listone Burnished-Leather Chelsea Boots
+3409,5526882328147780,Center Leather Chelsea Boots
+3410,5526882328147796,Distressed Leather Derby Shoes
+3411,5526882328147820,Full-Grain Leather Derby Shoes
+3412,5526882328147840,Mentone Leather Derby Shoes
 3413,55268_BKBL,Men's Skechers GOrun Speed XCR Ultra
 3414,55269_BKBL,Men's Skechers GOrun Speed XCS Ultra
 3415,553558-056,Air Jordan 1 Low
@@ -3420,7 +3420,7 @@ shoesIDX,shoesID,pro_name
 3419,554724-090,Air Jordan 1 Mid
 3420,554724-129,Air Jordan 1 Mid
 3421,554724-445,Air Jordan 1 Mid
-3422,5.55E+15,Replica Suede and Leather Sneakers
+3422,5549023492002169,Replica Suede and Leather Sneakers
 3423,55495_BBK,Men's Skechers On the GO Outdoors Ultra - Trek
 3424,55500_BBK,Men's Skechers GOwalk 5 - Prized
 3425,55500_CHAR,Men's Skechers GOwalk 5 - Prized
@@ -3446,21 +3446,21 @@ shoesIDX,shoesID,pro_name
 3445,55513_BKW,Men's Skechers GOwalk 5 - Convinced
 3446,55513_WHT,Men's Skechers GOwalk 5 - Convinced
 3447,55519_BBK,Men's Skechers GOwalk 5
-3448,5.76E+15,Leather Chelsea Boots
-3449,5.76E+15,Blair Full-Grain Leather Derby Shoes
-3450,5.76E+15,Suede Chelsea Boots
-3451,5.76E+15,Shearling-Lined Suede Boots
-3452,5.76E+15,Suede Boat Shoes
-3453,5.76E+15,Suede Derby Shoes
-3454,5.76E+15,Cap-Toe Burnished-Suede Derby Shoes
-3455,5.76E+15,Cap-Toe Full-Grain Leather Derby Shoes
-3456,5.76E+15,Suede Boots
-3457,5.76E+15,Suede Derby Shoes
-3458,5.76E+15,Polished-Leather Longwing Brogues
-3459,5.76E+15,Suede Boat Shoes
-3460,5.76E+15,Suede Brogues
-3461,5.76E+15,Suede Boat Shoes
-3462,5.76E+15,Shearling-Lined Leather Boots
+3448,5756269973059731,Leather Chelsea Boots
+3449,5756269973083663,Blair Full-Grain Leather Derby Shoes
+3450,5756269973089077,Suede Chelsea Boots
+3451,5756269973089080,Shearling-Lined Suede Boots
+3452,5756269973089081,Suede Boat Shoes
+3453,5756269973089083,Suede Derby Shoes
+3454,5756269973089085,Cap-Toe Burnished-Suede Derby Shoes
+3455,5756269973089093,Cap-Toe Full-Grain Leather Derby Shoes
+3456,5756269973089095,Suede Boots
+3457,5756269973089096,Suede Derby Shoes
+3458,5756269973089098,Polished-Leather Longwing Brogues
+3459,5756269973089101,Suede Boat Shoes
+3460,5756269973089102,Suede Brogues
+3461,5756269973089103,Suede Boat Shoes
+3462,5756269973089104,Shearling-Lined Leather Boots
 3463,580456-080,Nike Lunar Gato II IC
 3464,580456-128,Nike Lunar Gato II IC
 3465,58350_BKGY,Men's Satisfaction - Flash Point
@@ -3474,49 +3474,49 @@ shoesIDX,shoesID,pro_name
 3473,58363_BBK,Men's Dynamight 2.0 - Fallford
 3474,58363_CCBK,Men's Dynamight 2.0 - Fallford
 3475,58363_NVY,Men's Dynamight 2.0 - Fallford
-3476,5.98E+15,Jacques Fringed Leather Loafers
-3477,5.98E+15,Facet Polished-Leather Derby Shoes
-3478,5.98E+15,Facet Polished-Leather Derby Shoes
-3479,5.98E+15,Leather Monk-Strap Shoes
-3480,5.98E+15,Leather Chelsea Boots
-3481,5.98E+15,Radial Runner Leather and Suede-Trimmed Mesh Sneakers
-3482,5.98E+15,Nacho Collapsible-Heel Suede Loafer Espadrilles
-3483,5.98E+15,Nacho Suede Loafer Espadrilles
-3484,5.98E+15,Pablo Suede Espadrilles
-3485,5.98E+15,Nacho Suede Loafer Espadrilles
-3486,5.98E+15,Pablo Canvas Espadrilles
-3487,5.98E+15,Suede Chelsea Boots
-3488,5.98E+15,Canyon Woven Nylon-Webbing and Faux Leather Sandals
-3489,5.98E+15,Latigo Woven Faux Leather Sandals
-3490,5.98E+15,Latigo Woven Faux Leather and Nylon-Webbing Shoes
-3491,5.98E+15,Latigo Woven Faux Leather Sandals
-3492,5.98E+15,Colony Woven Faux Leather Sandals
-3493,5.98E+15,Canyon Faux Leather-Trimmed Woven Webbing Sandals
-3494,5.98E+15,Colony Woven Faux Leather Sandals
-3495,5.98E+15,Colony Woven Faux Leather Sandals
-3496,5.98E+15,Latigo Woven Faux Leather Sandals
-3497,5.98E+15,Stanford Smooth and Textured-Leather Oxford Shoes
-3498,5.98E+15,Coventry Suede Chelsea Boots
-3499,5.98E+15,#NAME?
-3500,5.98E+15,Reflective Logo-Trimmed Striped Canvas Espadrilles
-3501,5.98E+15,101 Brushed-Suede Sneakers
-3502,5.98E+15,Piccadilly Leather Penny Loafers
-3503,5.98E+15,Newmarket Suede Chelsea Boots
-3504,5.98E+15,Appleton Leather Oxford Shoes
-3505,5.98E+15,Daniel Leather Derby Shoes
-3506,5.98E+15,Stephen Leather Chelsea Boots
-3507,5.98E+15,Trenton Cap-Toe Leather Oxford Brogues
-3508,5.98E+15,Abingdon Suede Derby Shoes
-3509,5.98E+15,Bourton Full-Grain Leather Brogues
-3510,5.98E+15,Leavenworth Leather Monk-Strap Shoes
-3511,5.98E+15,Superstar Distressed Patent-Leather and Suede Sneakers
-3512,5.98E+15,Leather-Trimmed Suede Boots
-3513,5.98E+15,#NAME?
-3514,5.98E+15,#NAME?
-3515,5.98E+15,#NAME?
-3516,5.98E+15,Leather Chelsea Boots
-3517,5.98E+15,Haston Rubber and Cork Flip Flops
-3518,5.98E+15,Haston Rubber and Cork Flip Flops
+3476,5983760397616878,Jacques Fringed Leather Loafers
+3477,5983760397717058,Facet Polished-Leather Derby Shoes
+3478,5983760397717060,Facet Polished-Leather Derby Shoes
+3479,5983760397719026,Leather Monk-Strap Shoes
+3480,5983760397719027,Leather Chelsea Boots
+3481,5983760397719030,Radial Runner Leather and Suede-Trimmed Mesh Sneakers
+3482,5983760397828961,Nacho Collapsible-Heel Suede Loafer Espadrilles
+3483,5983760397828962,Nacho Suede Loafer Espadrilles
+3484,5983760397828963,Pablo Suede Espadrilles
+3485,5983760397828964,Nacho Suede Loafer Espadrilles
+3486,5983760397828965,Pablo Canvas Espadrilles
+3487,5983760397861324,Suede Chelsea Boots
+3488,5983760397928302,Canyon Woven Nylon-Webbing and Faux Leather Sandals
+3489,5983760397928303,Latigo Woven Faux Leather Sandals
+3490,5983760397928304,Latigo Woven Faux Leather and Nylon-Webbing Shoes
+3491,5983760397928307,Latigo Woven Faux Leather Sandals
+3492,5983760397928309,Colony Woven Faux Leather Sandals
+3493,5983760397928311,Canyon Faux Leather-Trimmed Woven Webbing Sandals
+3494,5983760397928314,Colony Woven Faux Leather Sandals
+3495,5983760397928315,Colony Woven Faux Leather Sandals
+3496,5983760397928316,Latigo Woven Faux Leather Sandals
+3497,5983760397984757,Stanford Smooth and Textured-Leather Oxford Shoes
+3498,5983760397984805,Coventry Suede Chelsea Boots
+3499,5983760398237678,+ Oofus OOcloog Logo-Print Foam Sandals
+3500,5983760398246175,Reflective Logo-Trimmed Striped Canvas Espadrilles
+3501,5983760398324361,101 Brushed-Suede Sneakers
+3502,5983760398330267,Piccadilly Leather Penny Loafers
+3503,5983760398330269,Newmarket Suede Chelsea Boots
+3504,5983760398354300,Appleton Leather Oxford Shoes
+3505,5983760398354301,Daniel Leather Derby Shoes
+3506,5983760398354302,Stephen Leather Chelsea Boots
+3507,5983760398354303,Trenton Cap-Toe Leather Oxford Brogues
+3508,5983760398354306,Abingdon Suede Derby Shoes
+3509,5983760398354308,Bourton Full-Grain Leather Brogues
+3510,5983760398354309,Leavenworth Leather Monk-Strap Shoes
+3511,5983760398401284,Superstar Distressed Patent-Leather and Suede Sneakers
+3512,5983760398401477,Leather-Trimmed Suede Boots
+3513,5983760398543180,+ Engineered Garments Bondi B Rubber-Trimmed Mesh Sneakers
+3514,5983760398543182,+ Engineered Garments Bondi B Rubber-Trimmed Mesh Sneakers
+3515,5983760398543183,+ Engineered Garments Bondi B Rubber-Trimmed Mesh Sneakers
+3516,5983760398787091,Leather Chelsea Boots
+3517,5983760398817171,Haston Rubber and Cork Flip Flops
+3518,5983760398817202,Haston Rubber and Cork Flip Flops
 3519,615957-027,Nike SB Zoom Stefan Janoski Canvas
 3520,615957-204,Nike SB Zoom Stefan Janoski Canvas
 3521,615957-607,Nike SB Zoom Stefan Janoski Canvas
@@ -3708,40 +3708,40 @@ shoesIDX,shoesID,pro_name
 3707,66447_BLK,Men's Bregman - Sergo
 3708,66454_BLK,Men's Relaxed Fit: Volero - Tralon
 3709,66454_LTBR,Men's Relaxed Fit: Volero - Tralon
-3710,6.66E+14,Piccadilly Leather Penny Loafers
-3711,6.66E+14,Inverness Leather Wingtip Brogues
-3712,6.66E+14,Chelsea Cap-Toe Burnished-Leather Oxford Shoes
-3713,6.66E+14,Chelsea Cap-Toe Burnished-Leather Oxford Shoes
-3714,6.66E+14,Cadogan Burnished-Leather Brogues
-3715,6.66E+14,Jacques Leather Derby Shoes
-3716,6.66E+14,Archie Full-Grain Leather Derby Shoes
-3717,6.66E+14,Alessandro D?mesure Whole-Cut Leather Oxford Shoes
-3718,6.66E+14,Winston Leather Oxford Brogues
-3719,6.66E+14,Canvas and Cotton-Mesh Espadrilles
-3720,6.66E+14,Anthony Churchill Leather Oxford Brogues
-3721,6.66E+14,Reuben Leather Wingtip Brogues
-3722,6.66E+14,Arizona Birko-Flor Sandals
-3723,6.66E+14,Cap-Toe Polished-Leather Monk-Strap Shoes
-3724,6.66E+14,Lucien Polished-Leather Derby Shoes
-3725,6.66E+14,"Triple S Nylon, Suede and Leather Sneakers"
-3726,6.66E+14,Dover Textured-Leather Derby Shoes
-3727,6.66E+14,"Track Nylon, Mesh and Rubber Sneakers"
-3728,6.66E+14,William Leather-Trimmed Velvet Tasselled Loafers
-3729,6.66E+14,Clapham Leather Monk-Strap Shoes
-3730,6.66E+14,Leather Derby Shoes
-3731,6.66E+14,Arizona Oiled-Leather Sandals
-3732,6.66E+14,Lucien Polished-Leather Derby Shoes
-3733,6.66E+14,Thomas Cap-Toe Leather Monk-Strap Shoes
-3734,6.66E+14,Jacques Leather Derby Shoes
-3735,6.66E+14,Nakagawa Cap-Toe Leather Oxford Shoes
-3736,6.66E+14,Caine Leather Monk-Strap Shoes
-3737,6.66E+14,Arizona Oiled-Leather Sandals
-3738,6.66E+14,Borrowdale Textured-Leather Wing-Tip Brogues
-3739,6.66E+14,Alessandro Eclair Whole-Cut Leather Oxford Shoes
-3740,6.66E+14,Jacques Leather Derby Shoes
-3741,6.66E+14,Ace Watersnake-Trimmed Appliqu?d Leather Sneakers
-3742,6.66E+14,Banbury Suede Desert Boots
-3743,6.66E+14,Leather Monk-Strap Shoes
+3710,666467151853165,Piccadilly Leather Penny Loafers
+3711,666467151853175,Inverness Leather Wingtip Brogues
+3712,666467151853182,Chelsea Cap-Toe Burnished-Leather Oxford Shoes
+3713,666467151853255,Chelsea Cap-Toe Burnished-Leather Oxford Shoes
+3714,666467151853265,Cadogan Burnished-Leather Brogues
+3715,666467151982416,Jacques Leather Derby Shoes
+3716,666467151982884,Archie Full-Grain Leather Derby Shoes
+3717,666467151983679,Alessandro D√©mesure Whole-Cut Leather Oxford Shoes
+3718,666467151984985,Winston Leather Oxford Brogues
+3719,666467151985015,Canvas and Cotton-Mesh Espadrilles
+3720,666467151985205,Anthony Churchill Leather Oxford Brogues
+3721,666467151985451,Reuben Leather Wingtip Brogues
+3722,666467151986904,Arizona Birko-Flor Sandals
+3723,666467151986984,Cap-Toe Polished-Leather Monk-Strap Shoes
+3724,666467151987509,Lucien Polished-Leather Derby Shoes
+3725,666467151987812,"Triple S Nylon, Suede and Leather Sneakers"
+3726,666467151988269,Dover Textured-Leather Derby Shoes
+3727,666467151988794,"Track Nylon, Mesh and Rubber Sneakers"
+3728,666467151989157,William Leather-Trimmed Velvet Tasselled Loafers
+3729,666467151989356,Clapham Leather Monk-Strap Shoes
+3730,666467151989665,Leather Derby Shoes
+3731,666467151989709,Arizona Oiled-Leather Sandals
+3732,666467151989742,Lucien Polished-Leather Derby Shoes
+3733,666467151989819,Thomas Cap-Toe Leather Monk-Strap Shoes
+3734,666467151989989,Jacques Leather Derby Shoes
+3735,666467151990126,Nakagawa Cap-Toe Leather Oxford Shoes
+3736,666467151991342,Caine Leather Monk-Strap Shoes
+3737,666467151992037,Arizona Oiled-Leather Sandals
+3738,666467151992220,Borrowdale Textured-Leather Wing-Tip Brogues
+3739,666467151992500,Alessandro Eclair Whole-Cut Leather Oxford Shoes
+3740,666467151992787,Jacques Leather Derby Shoes
+3741,666467151992991,Ace Watersnake-Trimmed Appliqu√©d Leather Sneakers
+3742,666467151993213,Banbury Suede Desert Boots
+3743,666467151993586,Leather Monk-Strap Shoes
 3744,68244_B,Men's Hardee
 3745,68244_TPE,Men's Hardee
 3746,68245_B,Men's Monza
@@ -4007,10 +4007,10 @@ shoesIDX,shoesID,pro_name
 4006,749766-115,Nike Air Max 95 Essential
 4007,749766-304,Nike Air Max 95 Essential
 4008,749766-409,Nike Air Max 95 Essential
-4009,7.65E+13,Roos Horsebit Burnished-Leather Loafers
-4010,7.65E+13,Winter Beatle Walk Full-Grain Leather Chelsea Boots
-4011,7.67E+15,Downeast Leather Boat Shoes
-4012,7.67E+15,Polished-Leather Derby Shoes
+4009,76461509659712,Roos Horsebit Burnished-Leather Loafers
+4010,76461509921057,Winter Beatle Walk Full-Grain Leather Chelsea Boots
+4011,7668287966260474,Downeast Leather Boat Shoes
+4012,7668287966260475,Polished-Leather Derby Shoes
 4013,772109,adidas Samba Classic Shoes - White | adidas US
 4014,777330-962,Nike Air Huarache By You
 4015,78800_BLK,Men's Wash-A-Wool: Skechers GOwalk 5 - Flint
@@ -4190,9 +4190,9 @@ shoesIDX,shoesID,pro_name
 4189,921826-500,Nike Air Max 97
 4190,922471-900,"Nike SFB Gen 2 8"" Leather"
 4191,922472-002,"Nike SFB Gen 2 8"" GORE-TEX?"
-4192,922474-001,Nike SFB Gen 2 8°®
-4193,922474-200,Nike SFB Gen 2 8°®
-4194,922474-201,Nike SFB Gen 2 8°®
+4192,922474-001,Nike SFB Gen 2 8‚Äù
+4193,922474-200,Nike SFB Gen 2 8‚Äù
+4194,922474-201,Nike SFB Gen 2 8‚Äù
 4195,923112-001,Nike SB Bruin High
 4196,923112-202,Nike SB Bruin High
 4197,923112-302,Nike SB Bruin High
@@ -4221,8 +4221,8 @@ shoesIDX,shoesID,pro_name
 4220,943757-901,Nike Air Max 1 By You
 4221,943790-100,Nike Sideline IV
 4222,961_WRNV,Women's Zinger - Retro Rockers
-4223,9.68E+15,Hainaut Patent-Leather Chelsea Boots
-4224,9.91E+14,+ Dr. Martens Leather 1461 Derby Shoes
+4223,9679066508647059,Hainaut Patent-Leather Chelsea Boots
+4224,990541377604553,+ Dr. Martens Leather 1461 Derby Shoes
 4225,AA0286-001,Nike Zoom HyperAce 2
 4226,AA0286-100,Nike Zoom HyperAce 2
 4227,AA0286-104,Nike Zoom HyperAce 2
@@ -4706,9 +4706,9 @@ shoesIDX,shoesID,pro_name
 4705,AO7353-002,NikeCourt Air Max Wildcard
 4706,AO7353-100,NikeCourt Air Max Wildcard
 4707,AO7353-603,NikeCourt Air Max Wildcard
-4708,AO7507-001,Nike SFB Field 2 8°®
-4709,AO7507-200,Nike SFB Field 2 8°®
-4710,AO7507-201,Nike SFB Field 2 8°®
+4708,AO7507-001,Nike SFB Field 2 8‚Äù
+4709,AO7507-200,Nike SFB Field 2 8‚Äù
+4710,AO7507-201,Nike SFB Field 2 8‚Äù
 4711,AO7540-007,Nike Phantom Venom Elite FG
 4712,AO7540-008,Nike Phantom Venom Elite FG
 4713,AO7540-077,Nike Phantom Venom Elite FG
@@ -4794,7 +4794,7 @@ shoesIDX,shoesID,pro_name
 4793,AQ1189-690,Nike Metcon 5
 4794,AQ1198,adidas Tubular Dusk Shoes - Black | adidas US
 4795,AQ1202-900,"Nike SFB Field 2 8"" Leather"
-4796,AQ1203-200,Nike SFB Field 2 8°® Realtree? GORE-TEX?
+4796,AQ1203-200,Nike SFB Field 2 8‚Äù Realtree? GORE-TEX?
 4797,AQ1214,adidas Superstar Shoes - White | adidas US
 4798,AQ1261,adidas Forum Low Top Shoes - White | adidas US
 4799,AQ1289-001,Nike Free RN 5.0
